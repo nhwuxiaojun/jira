@@ -1,5 +1,4 @@
-# centos环境下docker搭建jira-7.11.1破解版
-
+# centos环境下docker搭建jira
 
 
 ## 1. 万能 jar 
